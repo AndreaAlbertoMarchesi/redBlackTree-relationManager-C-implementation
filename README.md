@@ -1,4 +1,4 @@
-# redBlackTree-relationManager-implementation-in-C
+# redBlackTree-relationManager-C-implementation
 This is a red black tree C implematation to manage relations.
 Final project of the course API at Polytechnic University of Milan in 2019.
 The program doesn't check if input is correct. The commands are:
